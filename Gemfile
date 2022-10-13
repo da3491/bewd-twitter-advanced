@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.11'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1'
 
+# Image Processing
+gem 'image_processing', ">= 1.2"
+
 # AWS S3
 # gem 'aws-sdk-s3', '~> 1.114'
 gem 'aws-sdk', '~> 3.0'
